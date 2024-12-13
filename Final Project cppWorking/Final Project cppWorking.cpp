@@ -214,7 +214,7 @@ int main()
         cout << "\n I'm NUMIN.";
         numin();
 
-        cout << "\nshort for Numerical Integration!\n I am here to help you Figure out your integration\n";
+        cout << "\nshort for Numerical Integration!\n I am here to help you Figure out your integration\n I was Made by Radion Radion, Khang Nguyen,Joseph Decossard";
         system("pause"
         );
         system("cls");
